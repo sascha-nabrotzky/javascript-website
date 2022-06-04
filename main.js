@@ -1,3 +1,5 @@
-"use strict";
-const app = document.getElementById("app");
-app.innerHTML = "<h1>Hello World</h1>";
+import { headline } from "/components/headline.js";
+import { navigation } from "/components/navigation.js";
+
+headline();
+navigation();

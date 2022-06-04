@@ -1,0 +1,13 @@
+:root {
+  --darkgray: rgb(32, 32, 32);
+  --white: rgb(216, 216, 216);
+}
+
+body {
+  background-color: var(--darkgray);
+  color: var(--white);
+}
+
+.headline {
+  text-align: center;
+}
