@@ -1,7 +1,7 @@
-export function headline() {
+export function headline(props) {
   let div = document.createElement("div");
   div.className = "headline";
-  div.innerHTML = "<h1>Headline</h1>";
+  div.innerHTML = `<h1>${props}</h1>`;
 
   return document.body.append(div);
 }

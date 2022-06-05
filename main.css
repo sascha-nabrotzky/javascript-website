@@ -1,13 +1,33 @@
 :root {
   --darkgray: rgb(32, 32, 32);
   --white: rgb(216, 216, 216);
+
+  --ff-main: monospace;
+  --fs-main: 1rem;
 }
 
 body {
+  font-family: var(--ff-main);
   background-color: var(--darkgray);
   color: var(--white);
 }
 
 .headline {
   text-align: center;
+}
+
+.nav__list {
+  display: flex;
+  justify-content: center;
+  padding: unset;
+  list-style-type: none;
+}
+
+.nav__listitem {
+  padding: 0 1rem;
+}
+
+.nav__link {
+  color: var(--white);
+  font-size: var(--fs-main);
 }
