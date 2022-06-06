@@ -6,14 +6,9 @@ export function button(props) {
   btn.innerText = "Button";
   document.body.append(btn);
 
-  let addListener = (selector) => (eventType) => (listener) => {
-    let element = document.querySelector(selector);
-    element.addEventListener(eventType, listener);
-  };
-
-  let addButtonListener = addListener("#button");
-  let addButtonClickListener = addButtonListener("click");
-  addButtonClickListener(() => {
+  function logText() {
     console.log("Button clicked");
-  });
+  }
+
+  addListener("#button", "click", logText);
 }
