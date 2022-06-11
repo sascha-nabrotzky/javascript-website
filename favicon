@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     id="layer1">
+    <circle
+       style="fill:#ffd42a"
+       id="path61"
+       cx="8.0013466"
+       cy="8.0007133"
+       r="7.9984159" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.97873px;line-height:1.25;font-family:Assistant;-inkscape-font-specification:'Assistant, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:1.09px;white-space:pre;inline-size:11.9948;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.224468"
+       x="2.7522359"
+       y="14.299"
+       id="text169"
+       transform="translate(-0.05769328)"><tspan
+         x="2.7522359"
+         y="14.299"
+         id="tspan455">JS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.97873px;line-height:1.25;font-family:Assistant;-inkscape-font-specification:'Assistant, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.224468"
+       x="2.6347694"
+       y="7.7179465"
+       id="text381"><tspan
+         id="tspan379"
+         x="2.6347694"
+         y="7.7179465"
+         style="stroke-width:0.224468">SN</tspan></text>
+  </g>
+</svg>

@@ -4,6 +4,12 @@
 
   --ff-main: monospace;
   --fs-main: 1rem;
+
+  --mt-sm: 1rem;
+  --mt-md: 2rem;
+
+  --mb-sm: 1rem;
+  --mb-md: 2rem;
 }
 
 body {
@@ -16,9 +22,22 @@ body {
   text-align: center;
 }
 
+p {
+  font-size: var(--fs-main);
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  margin-top: var(--mt-md);
+  margin-bottom: var(--mt-md);
+}
+
 .nav__list {
   display: flex;
   justify-content: center;
+  margin-top: var(--mt-md);
+  margin-bottom: var(--mt-md);
   padding: unset;
   list-style-type: none;
 }
