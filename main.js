@@ -3,6 +3,7 @@ import { navigation } from "/components/navigation.js";
 import { button } from "/components/button.js";
 import { generator } from "/components/generator.js";
 import { generatorComposition } from "/components/generatorComposition.js";
+import { generatorFetch } from "/components/generatorFetch.js";
 import { logo } from "/components/logo.js";
 
 logo();
@@ -12,3 +13,4 @@ navigation();
 button();
 generator();
 generatorComposition();
+generatorFetch();
