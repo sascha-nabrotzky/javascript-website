@@ -1,4 +1,4 @@
-import { addListener } from "/components/addListener.js";
+import { addListener } from "./addListener.js";
 
 export function button(props) {
   const btn = document.createElement("button");
