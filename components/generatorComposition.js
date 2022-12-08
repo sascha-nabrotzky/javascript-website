@@ -21,6 +21,5 @@ export function generatorComposition() {
   p.innerText = `Generator Composition: ${str}`;
   div.append(p);
 
-  console.log(str);
   return document.body.append(div);
 }

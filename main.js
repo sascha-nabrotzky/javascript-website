@@ -12,3 +12,4 @@ navigation();
 button();
 generator();
 generatorComposition();
+generatorFetch();
